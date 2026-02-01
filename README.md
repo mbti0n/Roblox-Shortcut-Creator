@@ -24,4 +24,4 @@ python main.py
 
 **Running directly without a terminal console**
 
-Double click on `main.py`
+Double click on `main.pyw`
