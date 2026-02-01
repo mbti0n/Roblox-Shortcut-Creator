@@ -1,4 +1,4 @@
-# Roblox Shortcuts Creator
+# Roblox Shortcut Creator
 A simple Qt5 app to add Roblox game shortcuts to Windows desktop, running in Python.
 
 ## Preview
