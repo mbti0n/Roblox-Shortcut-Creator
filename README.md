@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 2. Run the script
 
-**Using terminal**
+**Using the terminal**
 ```bash
 python3 main.py
 ```
@@ -28,6 +28,6 @@ or
 python main.py
 ```
 
-**Running directly without a terminal console**
+**Running directly without the terminal**
 
 Double click on `main.pyw`
